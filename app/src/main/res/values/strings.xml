@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cise v0.2</string>
+    <string name="app_name2">Cise v0.22</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Change Text</string>
+</resources>
