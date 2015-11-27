@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="caloriesLeftToday">2000</integer>
+    <integer name="caloriesPerDayLoser">1800</integer>
+    <integer name="caloriesPerTodayGainer">3000</integer>
+</resources>

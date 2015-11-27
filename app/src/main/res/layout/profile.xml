@@ -41,6 +41,16 @@ limitations under the License.
         android:autoText="true"
         android:textColor="#fffafa" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@integer/caloriesLeftToday"
+        android:id="@+id/calorie_text"
+        android:layout_gravity="center_horizontal"
+        android:autoText="true"
+        android:textColor="#fffafa" />
+
 </LinearLayout>
 
 
